@@ -1,0 +1,17 @@
+Laser gun system
+
+Maxim Lyasnikov 2014
+
+
+IR gun for playing "laser" duel.
+
+Spec:
+  + System to control gun and player state
+  + IR controler to reciev and tranciev damage
+  + Dynamic I/O system for input trigers, display leds and vibro 
+
+
+Dirs:
+
+  ./doc - documentation for project
+  ./src - source C
